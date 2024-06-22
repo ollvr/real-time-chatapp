@@ -1,5 +1,5 @@
 # Real-Time Chat App with React and Firebase
-
+![screenshot](C:\Users\OMAR\Desktop\youtubeChannelImages)
 This project demonstrates a real-time chat application built using React and Firebase. Users can authenticate with email and password, navigate between screens, and send/receive messages stored in Firestore.
 
 ## Getting Started
@@ -32,6 +32,7 @@ VITE_STORAGE_BUCKET=...
 VITE_MESSAGING_SENDER_ID=...
 VITE_APP_ID=...
 VITE_MEASUREMENT_ID=....
+
 Important: Never commit your .env file to version control.
 
 ### Install Additional Dependencies:
