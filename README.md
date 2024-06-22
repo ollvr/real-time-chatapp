@@ -1,5 +1,5 @@
 # Real-Time Chat App with React and Firebase
-![Chat Image ](https://drive.google.com/uc?id=1Jm5PBOx4gIy9S-GHirRobqd-NW4kliy_)
+![Chat Image ](https://drive.google.com/file/d/1Jm5PBOx4gIy9S-GHirRobqd-NW4kliy_/view)
 This project demonstrates a real-time chat application built using React and Firebase. Users can authenticate with email and password, navigate between screens, and send/receive messages stored in Firestore.
 
 ## Getting Started
