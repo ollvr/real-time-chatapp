@@ -10,8 +10,11 @@ Node.js and npm (or yarn) installed on your system.
 Project Setup:
 
 npm create vite@latest my-chat-app
+
 choose react
+
 cd my-chat-app  # Replace 'my-chat-app' with your desired project name
+
 npm install
 
 This command creates a new React project using Vite and installs the necessary dependencies.
