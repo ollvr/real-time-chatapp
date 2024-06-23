@@ -47,13 +47,5 @@ Run the App:
 npm run dev
 The app will start running in development mode, usually at http://localhost:5173/.
 
-## Usage
 
-Follow the instructions within the project code to implement user authentication, real-time messaging, and routing functionalities.
-Refer to the official documentation for React, Firebase, and React Router DOM for further guidance.
-Additional Resources
 
-React: https://react.dev/
-Firebase: https://firebase.google.com/
-React Router DOM: https://blog.logrocket.com/react-router-v6-guide/
-Firestore: https://firebase.google.com/docs/firestore
